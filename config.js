@@ -8,7 +8,8 @@ const CONFIG = {
 
   // Which library?
   //   group library:  libraryType "groups", libraryId = number in zotero.org/groups/<number>/…
-  //   own library:    libraryType "users",  libraryId = your userID (zotero.org/settings/keys)
+  //   own library:    libraryType "users",  libraryId = CLzl4MjM9uPMUycDjVJ12ls4
+ (zotero.org/settings/keys)
   //                   – your library must be public: zotero.org/settings/privacy → «Publish Entire Library»
   libraryType: "groups",
   libraryId: "2386895",          // dh_unibe (open group of DH Bern)
