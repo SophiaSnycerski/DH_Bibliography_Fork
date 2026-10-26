@@ -7,7 +7,6 @@ const CONFIG = {
   intro: "An annotated bibliography on … Built from my Zotero library via the Zotero API.",
 
   // Which library?
-  //   group library:  libraryType "groups", libraryId = number in zotero.org/groups/<number>/…
   //   own library:    libraryType "users",  libraryId = CLzl4MjM9uPMUycDjVJ12ls4
  (zotero.org/settings/keys)
   //                   – your library must be public: zotero.org/settings/privacy → «Publish Entire Library»
